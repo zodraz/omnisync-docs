@@ -1,4 +1,4 @@
-All documentation can be found in the medium articles.
+All documentation can be found in the medium articles:
 
 
 * <a href="https://medium.com/@tarantarantino/omnisync-a-real-world-architecture-for-syncing-salesforce-d365-and-fabric-in-near-real-time-17bdfb29469e" target="_blank">Part 1</a>
