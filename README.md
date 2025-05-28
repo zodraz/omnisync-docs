@@ -3,6 +3,8 @@ All documentation can be found in the medium articles:
 
 * <a href="https://medium.com/@tarantarantino/omnisync-a-real-world-architecture-for-syncing-salesforce-d365-and-fabric-in-near-real-time-17bdfb29469e" target="_blank">Part 1</a>
 * <a href="https://medium.com/@tarantarantino/omnisync-near-real-time-lakehouse-spark-streaming-and-power-bi-in-microsoft-fabric-part-2-6f3177f0931a" target="_blank">Part 2</a>
+* <a href="https://medium.com/@tarantarantino/omnisync-integrating-salesforce-with-microsoft-fabric-and-dynamics-365-part-3-2a96f86e94a0" target="_blank">Part 3</a>
+* <a href="https://medium.com/@tarantarantino/omnisync-dynamics-365-integration-with-salesforce-and-fabric-part-4-0ce408fe435a" target="_blank">Part 4</a>
 
 # Repositories
 
